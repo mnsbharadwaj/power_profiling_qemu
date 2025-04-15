@@ -1,0 +1,1 @@
+/* Cortex-M Linker Script */
