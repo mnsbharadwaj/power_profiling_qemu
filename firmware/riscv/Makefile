@@ -1,1 +1,1 @@
-# RISC-V Makefile
+# Placeholder for RISC-V Makefile

@@ -1,1 +1,1 @@
-// RISC-V Kyber512 benchmark main.c
+// Same structure as cortexm/main.c but for RISC-V

@@ -1,2 +1,2 @@
 #!/bin/bash
-# Run RISC-V QEMU
+# Placeholder for RISC-V run script
